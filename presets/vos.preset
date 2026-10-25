@@ -1,0 +1,13 @@
+# Vulcan Display Preset
+name=vos
+address=00000000F0000000
+width=1280
+height=720
+bits=8
+mode=0
+red=5:3
+green=2:3
+blue=0:2
+color.0=FF000000
+color.224=FFFF0000
+color.255=FFFFFFFF
