@@ -1,4 +1,0 @@
-C and H: Microsoft VS Code Seti theme (jesseweed/seti-ui), icon font E00C; C #519aba, H #a074c4. See Seti-ThirdPartyNotices.txt.
-Text: JetBrains IntelliJ IDEA fileTypes/text.svg, Copyright 2000-2021 JetBrains s.r.o., Apache License 2.0.
-Vulcan: project logo with transparent background.
-Java: JetBrains IntelliJ IDEA expui/fileTypes/java.svg, Copyright 2000-2023 JetBrains s.r.o. and contributors, Apache License 2.0. Source: https://github.com/JetBrains/intellij-community/blob/master/platform/icons/src/expui/fileTypes/java.svg . Original SVG retained as java-intellij.svg; IntellijJavaIcon renders its paths directly.
